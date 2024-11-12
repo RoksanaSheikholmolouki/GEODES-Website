@@ -5,7 +5,7 @@
 </div>
 
 
-This repository contains the source code for the **GEODES Laboratory Website**, developed by Roksana Sheikholmolouki and Éloïse Brassard. Visit our website: [GEODES Laboratory Website](https://geodes.recherche.usherbrooke.ca/en/home.html).
+This repository contains the source code for the **GEODES Laboratory Website**, developed by Roksana Sheikholmolouki and Éloïse Brassard. Visit the lab's website via the following link: [GEODES Laboratory Website](https://geodes.recherche.usherbrooke.ca/en/home.html).
 
 
 ## About the GEODES Laboratory
